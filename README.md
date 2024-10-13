@@ -1,3 +1,6 @@
+# 项目展示
+请点击链接查看https://www.wolai.com/nisPFAaTLC99jv67M8krMi
+
 # 项目介绍
 
 1) 此项目为在线电商WebApp (SPA)
@@ -9,9 +12,6 @@
 4) 采用模块化、组件化、工程化的模式开发
 
 `主要涵盖的技术点：`Vue-cli、Vuex、Vue-router、Axios、Less、防抖与节流、微信支付、Token、导航守卫、Promise……
-
-# 项目展示
-
 
 # 我从此项目中学到什么?
 
