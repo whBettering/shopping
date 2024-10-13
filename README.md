@@ -16,41 +16,8 @@
 
 # 项目整体思维导图
 
-![](https://secure2.wostatic.cn/static/8keh9NURvLMcGFRkQBcdVA/image.png?auth_key=1728806116-2j9jGzh9jRnLxwCtyyeNRe-0-b45db6724621aa67eb8011fa232c3a5f)
+![image](https://github.com/user-attachments/assets/264aada4-60ad-40ae-8a36-a5c35d29d259)
 
-![](https://secure2.wostatic.cn/static/mrwghNmVNiu8NSCaWdBkdP/image.png?auth_key=1728806116-bvGWYR88AWdf1oDnWgmZQs-0-84e2b0052f73b30f47bbeeae237d7db1)
-
-# 我从此项目中学到什么?
-
-### 1. 流程及开发方法
-
-1) 熟悉一个项目的开发流程
-
-2) 学会模块化、组件化、工程化的开发模式
-
-3) 掌握使用vue-cli脚手架初始化Vue.js项目
-
-4) 学会模拟json后端数据，实现前后端分离开发
-
-5) 学会ES6+eslint的开发方式
-
-6) 掌握一些项目优化技巧
-
-### 2. Vue插件或第三方库
-
-1) 学会使用vue-router开发单页应用
-
-2) 学会使用axios与后端进行数据交互
-
-3) 学会使用vuex管理应用组件状态
-
-4) 学会使用swiper实现页面滑动效果
-
-5) 学会使用elment-ui组件库构建界面
-
-6) 学会使用vue-lazyload实现图片惰加载
-
-7) 学会使用mockjs模拟后台数据接口
 
 # 项目图片展示
 ![](https://secure2.wostatic.cn/static/kQfgZt5FKbGZsDx1kL991S/image.png?auth_key=1728806658-7Ls69ZTBxiyAcKKTqEGZj1-0-313cc328e130dc9ae7f00d6f1dfaff2c)
@@ -69,3 +36,21 @@
 
 ![image](https://github.com/user-attachments/assets/26d266e9-dc52-4081-89df-7c222498da5a)
 
+# 我从此项目中学到什么?
+
+### 1. 流程及开发方法
+1) 熟悉一个项目的开发流程
+2) 学会模块化、组件化、工程化的开发模式
+3) 掌握使用vue-cli脚手架初始化Vue.js项目
+4) 学会模拟json后端数据，实现前后端分离开发
+5) 学会ES6+eslint的开发方式
+6) 掌握一些项目优化技巧
+
+### 2. Vue插件或第三方库
+1) 学会使用vue-router开发单页应用
+2) 学会使用axios与后端进行数据交互
+3) 学会使用vuex管理应用组件状态
+4) 学会使用swiper实现页面滑动效果
+5) 学会使用elment-ui组件库构建界面
+6) 学会使用vue-lazyload实现图片惰加载
+7) 学会使用mockjs模拟后台数据接口
