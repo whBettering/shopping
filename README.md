@@ -1,5 +1,5 @@
 # 项目展示
-请点击链接查看项目展示视频 https://www.wolai.com/nisPFAaTLC99jv67M8krMi
+项目展示视频请点击链接查看 https://www.wolai.com/nisPFAaTLC99jv67M8krMi
 
 # 项目介绍
 
@@ -12,6 +12,13 @@
 4) 采用模块化、组件化、工程化的模式开发
 
 `主要涵盖的技术点：`Vue-cli、Vuex、Vue-router、Axios、Less、防抖与节流、微信支付、Token、导航守卫、Promise……
+
+
+# 项目整体思维导图
+
+![](https://secure2.wostatic.cn/static/8keh9NURvLMcGFRkQBcdVA/image.png?auth_key=1728806116-2j9jGzh9jRnLxwCtyyeNRe-0-b45db6724621aa67eb8011fa232c3a5f)
+
+![](https://secure2.wostatic.cn/static/mrwghNmVNiu8NSCaWdBkdP/image.png?auth_key=1728806116-bvGWYR88AWdf1oDnWgmZQs-0-84e2b0052f73b30f47bbeeae237d7db1)
 
 # 我从此项目中学到什么?
 
@@ -45,8 +52,20 @@
 
 7) 学会使用mockjs模拟后台数据接口
 
-# 项目整体思维导图
+# 项目图片展示
+![](https://secure2.wostatic.cn/static/kQfgZt5FKbGZsDx1kL991S/image.png?auth_key=1728806658-7Ls69ZTBxiyAcKKTqEGZj1-0-313cc328e130dc9ae7f00d6f1dfaff2c)
 
-![](https://secure2.wostatic.cn/static/8keh9NURvLMcGFRkQBcdVA/image.png?auth_key=1728806116-2j9jGzh9jRnLxwCtyyeNRe-0-b45db6724621aa67eb8011fa232c3a5f)
+![image](https://github.com/user-attachments/assets/4bf0a16d-267b-4712-9f17-d65378f5a037)
 
-![](https://secure2.wostatic.cn/static/mrwghNmVNiu8NSCaWdBkdP/image.png?auth_key=1728806116-bvGWYR88AWdf1oDnWgmZQs-0-84e2b0052f73b30f47bbeeae237d7db1)
+![image](https://github.com/user-attachments/assets/91a5c14e-202f-498a-8d40-1b31c5d2fc54)
+
+![image](https://github.com/user-attachments/assets/4c7844e2-f8a2-4fce-8171-dcc53b1f0749)
+
+![image](https://github.com/user-attachments/assets/899d18d6-7284-4cc7-8022-7cf6acae175b)
+
+![image](https://github.com/user-attachments/assets/cf9d6483-d5d9-4fa7-98dc-8d15d3657c74)
+
+![image](https://github.com/user-attachments/assets/4f1375ad-1908-44df-99f0-d8f2e39441af)
+
+![image](https://github.com/user-attachments/assets/26d266e9-dc52-4081-89df-7c222498da5a)
+
